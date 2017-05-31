@@ -50,10 +50,10 @@ By default, runs tests related to files changed since the last commit.
 
 Jest will look for test files with any of the following popular naming conventions:
 
-* Files with `.js` suffix in `__tests__` folders.
-* Files with `.test.js` suffix.
-* Files with `.spec.js` suffix.
-* Any of the above with jsx in place of js
+* Files with `.ts` suffix in `__tests__` folders.
+* Files with `.test.ts` suffix.
+* Files with `.spec.ts` suffix.
+* Any of the above with tsx in place of ts
 
 *[Read more about testing.](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests)*
 
